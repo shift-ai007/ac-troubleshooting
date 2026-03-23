@@ -61,4 +61,4 @@ Call a licensed technician if:
 
 ---
 
-*Safety note: Never open the electrical compartment on your AC unit. Capacitors can hold lethal voltage even when the system is off.*
+*If you need fast help, [emergency AC repair](https://ac-repair.today/services/emergency-ac-repair/) is available same-day across Miami-Dade, Broward, and Palm Beach. Safety note: Never open the electrical compartment on your AC unit. Capacitors can hold lethal voltage even when the system is off.*

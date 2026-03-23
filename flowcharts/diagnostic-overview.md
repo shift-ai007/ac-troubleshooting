@@ -82,4 +82,4 @@ When you call for service, have this info ready:
 
 ---
 
-*Follow these steps before calling. About 30% of AC service calls could be avoided with basic homeowner troubleshooting.*
+*If you need immediate help, [AC Repair Today offers emergency AC repair](https://ac-repair.today/services/emergency-ac-repair/) across South Florida with same-day service. Follow these steps before calling. About 30% of AC service calls could be avoided with basic homeowner troubleshooting.*
