@@ -4,12 +4,23 @@ A practical, step-by-step guide to diagnosing air conditioning problems before c
 
 When your AC stops working on a 95-degree day with 80% humidity, you need answers fast. This guide walks you through the most common AC failures, helps you identify the likely cause, and tells you whether it's a DIY fix or a job for a licensed tech.
 
+## Interactive Diagnostic Tool
+
+For a guided troubleshooting experience, run the **[interactive AC diagnostic tool](tools/ac-diagnostic.py)**:
+
+```bash
+python3 tools/ac-diagnostic.py
+```
+
+This Python script walks you through a decision-tree diagnostic — answering yes/no questions about your AC's symptoms to narrow down the cause and recommend next steps. No dependencies beyond Python 3.6+.
+
 ## How to Use This Guide
 
-1. **Identify your symptom** from the list below
-2. **Follow the flowchart** — each one walks you through simple checks in order
-3. **Try the safe DIY fixes** marked with a wrench icon
-4. **Call a pro** for anything involving refrigerant, electrical, or internal components
+1. **Try the interactive tool** — `python3 tools/ac-diagnostic.py`
+2. **Identify your symptom** from the list below
+3. **Follow the flowchart** — each one walks you through simple checks in order
+4. **Try the safe DIY fixes** marked with a wrench icon
+5. **Call a pro** for anything involving refrigerant, electrical, or internal components
 
 ## Troubleshooting by Symptom
 
