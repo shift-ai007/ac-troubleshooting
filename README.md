@@ -32,6 +32,7 @@ This Python script walks you through a decision-tree diagnostic — answering ye
 
 ### System Behavior
 - **[AC Won't Turn On](guides/wont-turn-on.md)** — No response from the system at all
+- **[Breaker & Electrical Panel Guide](guides/breaker-and-electrical.md)** — Check breakers, GFCI, and disconnect switches safely
 - **[AC Short Cycling](guides/short-cycling.md)** — System turns on and off every few minutes
 - **[AC Runs Continuously](guides/runs-continuously.md)** — Unit never shuts off, runs 24/7
 
