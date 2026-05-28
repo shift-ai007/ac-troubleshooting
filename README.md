@@ -98,6 +98,10 @@ South Florida conditions affect troubleshooting:
 - [SEER Rating Explained](reference/seer-ratings.md) — What those numbers actually mean for your bill
 - [Refrigerant Types](reference/refrigerants.md) — R-22 vs R-410A and the transition timeline
 
+## South Florida Resources
+
+- [Directory of licensed AC contractors in South Florida](https://ac-repair.today) — Licensed, insured professionals covering Miami-Dade, Broward, and Palm Beach counties.
+
 ## Contributing
 
 Found an inaccuracy? Have a troubleshooting tip we missed? Pull requests welcome.
