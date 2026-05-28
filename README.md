@@ -42,6 +42,9 @@ This Python script walks you through a decision-tree diagnostic — answering ye
 - **[Ice on AC Unit](guides/ice-buildup.md)** — Frost or ice forming on pipes or the outdoor unit
 - **[Bad Smell from Vents](guides/bad-smells.md)** — Musty, burning, or chemical odors
 
+### Electrical & Thermostat
+- **[Thermostat & Electrical Diagnostics](guides/thermostat-electrical-diagnostics.md)** — Quick electrical checks before calling a tech
+
 ### Cost & Efficiency
 - **[High Electric Bills](guides/high-bills.md)** — Energy costs suddenly spiked without usage change
 
@@ -108,9 +111,9 @@ Found an inaccuracy? Have a troubleshooting tip we missed? Pull requests welcome
 
 ## About
 
-Need a professional? [AC Repair Today](https://ac-repair.today/services/ac-repair/) services all of South Florida with same-day emergency repairs. Licensed, insured, and available 7 days a week.
+Need a professional in South Florida? [AC Repair Today](https://ac-repair.today/services/ac-repair/) services Miami-Dade, Broward, and Palm Beach with same-day emergency repairs — licensed, insured, and available 7 days a week. Read our [thermostat and electrical diagnostic guide](https://ac-repair.today/services/ac-maintenance/) to learn about common electrical causes of AC failure.
 
-Florida License CAC1824118 | (305) 850-6810 | [ac-repair.today](https://ac-repair.today)
+Florida License CAC1824118 | (305) 850-6810 | [ac-repair.today](https://ac-repair.today) | [AC Maintenance Plans](https://ac-repair.today/services/ac-maintenance/)
 
 ---
 
