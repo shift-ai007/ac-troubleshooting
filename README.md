@@ -48,6 +48,10 @@ This Python script walks you through a decision-tree diagnostic — answering ye
 ### Cost & Efficiency
 - **[High Electric Bills](guides/high-bills.md)** — Energy costs suddenly spiked without usage change
 
+### Advanced Diagnostics
+- **[Fan Speed & Airflow Diagnostics](guides/fan-speed-diagnostics.md)** — Everything you can check about blower performance, static pressure, and airflow before calling a tech
+- **[Zoning System Troubleshooting](guides/zoning-troubleshooting.md)** — How to diagnose stuck dampers, zone panel lockouts, and thermostat conflicts in zoned AC systems
+
 ## Quick Decision Flowcharts
 
 Visual flowcharts for fast diagnosis:
