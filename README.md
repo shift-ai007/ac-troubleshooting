@@ -90,6 +90,10 @@ Visual flowcharts for fast diagnosis:
 | Won't start | Breaker tripped, thermostat dead | Check breaker |
 | High bills | Dirty system, duct leaks, age | Maintenance helps |
 
+### Component Diagnostics
+- **[Capacitor Testing Guide](guides/capacitor-testing-guide.md)** — How to test AC run and start capacitors, interpret multimeter readings, identify failure modes, and safely replace them. South Florida's heat and salt air shorten capacitor life to 3-5 years.
+- **[AC Lockout Protection](guides/ac-lockout-protection.md)** — What lockout means, why modern ACs have it, and how to reset. Covers high-pressure, low-pressure, and freeze-protection lockout scenarios common in South Florida.
+
 ## South Florida Specifics
 
 South Florida conditions affect troubleshooting:
