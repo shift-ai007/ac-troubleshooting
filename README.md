@@ -14,6 +14,12 @@ python3 tools/ac-diagnostic.py
 
 This Python script walks you through a decision-tree diagnostic — answering yes/no questions about your AC's symptoms to narrow down the cause and recommend next steps. No dependencies beyond Python 3.6+.
 
+### Getting Started with Component Testing
+Before diving into symptom guides, two component-level diagnostic resources help you narrow down problems faster:
+
+- **[Compressor Contactor Testing](guides/contactor-testing.md)** — How to test the electromechanical switch that powers your compressor. Covers visual inspection, coil resistance checks, energized testing, and the specific contactor failure patterns caused by South Florida's salt air and ant infestations.
+- **[TXV (Thermal Expansion Valve) Diagnostics](guides/txv-diagnostics.md)** — How to identify a failing expansion valve using superheat and subcooling measurements. TXV failures mimic low refrigerant, and misdiagnosis costs hundreds in unnecessary refills.
+
 ## How to Use This Guide
 
 1. **Try the interactive tool** — `python3 tools/ac-diagnostic.py`
