@@ -49,6 +49,9 @@ Before diving into symptom guides, two component-level diagnostic resources help
 - **[Ice on AC Unit](guides/ice-buildup.md)** — Frost or ice forming on pipes or the outdoor unit
 - **[Bad Smell from Vents](guides/bad-smells.md)** — Musty, burning, or chemical odors
 
+### Humidity & Air Quality
+- **[Humidity & IAQ Effects on AC Performance](guides/humidity-iaq-effects.md)** — How high humidity and poor indoor air quality increase runtime, clog drains, overload coils, and damage components — plus diagnostic checks you can do yourself
+
 ### Electrical & Thermostat
 - **[Thermostat & Electrical Diagnostics](guides/thermostat-electrical-diagnostics.md)** — Quick electrical checks before calling a tech
 
