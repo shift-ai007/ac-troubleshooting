@@ -101,6 +101,7 @@ Visual flowcharts for fast diagnosis:
 - **[Capacitor Testing Guide](guides/capacitor-testing-guide.md)** — How to test AC run and start capacitors, interpret multimeter readings, identify failure modes, and safely replace them. South Florida's heat and salt air shorten capacitor life to 3-5 years.
 - **[AC Lockout Protection](guides/ac-lockout-protection.md)** — What lockout means, why modern ACs have it, and how to reset. Covers high-pressure, low-pressure, and freeze-protection lockout scenarios common in South Florida.
 - **[Refrigerant Leak Detection](guides/refrigerant-leak-detection.md)** — How to spot early signs of refrigerant leaks, distinguish them from airflow problems, understand professional detection methods, and decide when repair beats replacement. Essential reading for South Florida's salt-air environment.
+- **[Compressor Overheating & Thermal Overload](guides/compressor-overheating.md)** — Why your compressor shuts off after 10-30 minutes on hot days, six causes from dirty coils to bad capacitors to voltage sag, and how to diagnose with basic tools. Essential for South Florida's extreme heat.
 
 ## South Florida Specifics
 
