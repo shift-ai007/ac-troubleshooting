@@ -31,6 +31,7 @@ Before diving into symptom guides, two component-level diagnostic resources help
 ## Troubleshooting by Symptom
 
 ### Airflow & Cooling Issues
+- **[Pre-Season AC Checklist](guides/pre-season-checklist.md)** — Getting your system ready for South Florida summer
 - **[AC Not Cooling at All](guides/not-cooling.md)** — System runs but no cold air comes out
 - **[Weak Airflow](guides/weak-airflow.md)** — Cold air comes out but barely any volume
 - **[Uneven Cooling](guides/uneven-cooling.md)** — Some rooms cold, others warm
