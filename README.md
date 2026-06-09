@@ -105,6 +105,7 @@ Visual flowcharts for fast diagnosis:
 - **[AC Lockout Protection](guides/ac-lockout-protection.md)** — What lockout means, why modern ACs have it, and how to reset. Covers high-pressure, low-pressure, and freeze-protection lockout scenarios common in South Florida.
 - **[Refrigerant Leak Detection](guides/refrigerant-leak-detection.md)** — How to spot early signs of refrigerant leaks, distinguish them from airflow problems, understand professional detection methods, and decide when repair beats replacement. Essential reading for South Florida's salt-air environment.
 - **[Compressor Overheating & Thermal Overload](guides/compressor-overheating.md)** — Why your compressor shuts off after 10-30 minutes on hot days, six causes from dirty coils to bad capacitors to voltage sag, and how to diagnose with basic tools. Essential for South Florida's extreme heat.
+- **[Tracing Low-Voltage Shorts](guides/low-voltage-short-tracing.md)** — Systematic guide to finding 24V control circuit shorts: blown fuse method, thermostat wiring inspection, resistance testing, component-level diagnostics (contactor coils, dampers, float switches), and Florida-specific failure points like rooftop penetrations and salt-air corrosion.
 
 ## South Florida Specifics
 
