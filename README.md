@@ -101,6 +101,7 @@ Visual flowcharts for fast diagnosis:
 | High bills | Dirty system, duct leaks, age | Maintenance helps |
 
 ### Component Diagnostics
+- **[Control Board Flash Codes & LED Diagnostics](guides/flash-codes-and-led-diagnostics.md)** — How to read AC control board LED error codes for Carrier, Trane, Lennox, Goodman, Rheem, York, and other brands. Covers common flash code patterns, what each code means, safe DIY resets vs professional service calls, and South Florida-specific code patterns tied to salt air and humidity. The fastest diagnostic tool you can use without a multimeter.
 - **[Metering Device Diagnostics](guides/metering-device-diagnostics.md)** — Comprehensive guide to piston (fixed orifice), TXV, and EEV metering devices. How each works, how each fails, diagnostic flowcharts, superheat/subcooling interpretation tables, South Florida-specific failure patterns (salt-air TXV corrosion, ant-infested sensing bulbs, EEV stepper motor failure), and safe homeowner checks before calling a pro.
 - **[Capacitor Testing Guide](guides/capacitor-testing-guide.md)** — How to test AC run and start capacitors, interpret multimeter readings, identify failure modes, and safely replace them. South Florida's heat and salt air shorten capacitor life to 3-5 years.
 - **[AC Lockout Protection](guides/ac-lockout-protection.md)** — What lockout means, why modern ACs have it, and how to reset. Covers high-pressure, low-pressure, and freeze-protection lockout scenarios common in South Florida.
