@@ -108,6 +108,7 @@ Visual flowcharts for fast diagnosis:
 - **[Refrigerant Leak Detection](guides/refrigerant-leak-detection.md)** — How to spot early signs of refrigerant leaks, distinguish them from airflow problems, understand professional detection methods, and decide when repair beats replacement. Essential reading for South Florida's salt-air environment.
 - **[Compressor Overheating & Thermal Overload](guides/compressor-overheating.md)** — Why your compressor shuts off after 10-30 minutes on hot days, six causes from dirty coils to bad capacitors to voltage sag, and how to diagnose with basic tools. Essential for South Florida's extreme heat.
 - **[Tracing Low-Voltage Shorts](guides/low-voltage-short-tracing.md)** — Systematic guide to finding 24V control circuit shorts: blown fuse method, thermostat wiring inspection, resistance testing, component-level diagnostics (contactor coils, dampers, float switches), and Florida-specific failure points like rooftop penetrations and salt-air corrosion.
+- **[Blower Motor Diagnostics](guides/blower-motor-diagnostics.md)** — When the indoor fan won't spin: how to tell a PSC motor (hum-no-spin = dead capacitor) from a modern ECM (surge-sensitive control module), a symptom-to-cause table, why South Florida heat and lightning kill blower motors early, the safe homeowner checklist, and when a stationary blower becomes an [emergency AC repair](https://ac-repair.today/services/emergency-ac-repair/) on a hot day.
 
 ## South Florida Specifics
 
