@@ -62,6 +62,7 @@ Before diving into symptom guides, two component-level diagnostic resources help
 - **[Fan Speed & Airflow Diagnostics](guides/fan-speed-diagnostics.md)** — Everything you can check about blower performance, static pressure, and airflow before calling a tech
 - **[Zoning System Troubleshooting](guides/zoning-troubleshooting.md)** — How to diagnose stuck dampers, zone panel lockouts, and thermostat conflicts in zoned AC systems
 - **[Power-Surge & Lightning Damage Diagnostics](guides/power-surge-damage-diagnostics.md)** — A field sequence for telling surge damage apart from ordinary failures: the component vulnerability map, breaker-behavior decision tree, visual surge fingerprints, storm-season mimics like a tripped float switch, and why a weakened capacitor warrants a same-day [emergency AC repair](https://ac-repair.today/services/emergency-ac-repair/) before it takes the compressor down
+- **[Compressor Hard-Start Diagnostics](guides/hard-start-diagnostics.md)** — Why your lights dim when the AC kicks on, what "hard-starting" does to the compressor, the common causes (weak capacitor, unequalized pressures, low voltage, aging windings), the observation-only checks you can safely do, why installing a hard-start kit yourself can mask a dying compressor, and when an early [AC repair](https://ac-repair.today/services/ac-repair/) prevents an expensive failure
 
 ## Quick Decision Flowcharts
 
