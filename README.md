@@ -118,6 +118,9 @@ Visual flowcharts for fast diagnosis:
 - **[AC Keeps Shutting Off — Tripped Condensate Float Switch](guides/float-switch-shutoff.md)** — The #1 reason South Florida systems shut themselves off: a clogged condensate drain backs up and the safety float switch opens the 24V circuit. Covers the tell-tale "dead unit, healthy breaker, works again later" pattern, a symptom table, the safe wet-vac-and-vinegar homeowner fix, monthly prevention, and when a recurring clog needs professional [AC repair](https://ac-repair.today/services/ac-repair/).
 - **[Condenser Fan Motor Diagnostics](guides/condenser-fan-motor-diagnostics.md)** — The outdoor unit hums but the top fan won't spin and the air inside is warm — a failure that can destroy a compressor in minutes. Covers the safe "stick test," telling a failed run capacitor (most common) from a seized motor or stuck contactor, what's safe to check yourself, and why a fan that needs a manual push is an [emergency AC repair](https://ac-repair.today/services/emergency-ac-repair/), not a wait-and-see.
 
+### Thermostat & Controls
+- **[Communicating Thermostat System Malfunctions](guides/communicating-thermostat-diagnostics.md)** — Modern systems (Carrier Infinity, Trane ComfortLink, Lennox iComfort) use proprietary data-link communication instead of conventional 24V wiring. When the data link breaks, the entire system goes dead — no display, no fan, no compressor. Covers the four distinct failure modes (data-link loss, wrong configuration, software glitch, outdoor-unit communication fault), brand-specific wiring and error codes, and the smart-homeowner troubleshooting steps before you call a pro. Includes a quick-decision table and which brands require dealer-only diagnostic tools.
+
 ## South Florida Specifics
 
 South Florida conditions affect troubleshooting:
