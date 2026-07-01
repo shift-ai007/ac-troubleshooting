@@ -45,6 +45,7 @@ Before diving into symptom guides, two component-level diagnostic resources help
 
 ### Strange Symptoms
 - **[Unusual Noises](guides/unusual-noises.md)** — Banging, squealing, clicking, or buzzing sounds
+- **[Gurgling or Bubbling Water Sounds](guides/gurgling-water-sounds.md)** — That gurgling, sloshing, or bubbling noise from your AC — when it is a harmless drain-trap sound and when it signals refrigerant migration that silently damages your compressor. Covers the difference between normal condensate drain gurgling (brief, on start/stop) and continuous sloshing from refrigerant liquid flooding the compressor, step-by-step diagnosis by sound location, how to flush the drain line, and when a gurgling sound warrants a same-day [emergency AC repair](https://ac-repair.today/services/emergency-ac-repair/) call.
 - **[Water Leaks Inside](guides/water-leaks.md)** — Water pooling around the indoor unit
 - **[Ice on AC Unit](guides/ice-buildup.md)** — Frost or ice forming on pipes or the outdoor unit
 - **[Bad Smell from Vents](guides/bad-smells.md)** — Musty, burning, or chemical odors
@@ -122,6 +123,7 @@ Visual flowcharts for fast diagnosis:
 - **[Condenser Fan Motor Diagnostics](guides/condenser-fan-motor-diagnostics.md)** — The outdoor unit hums but the top fan won't spin and the air inside is warm — a failure that can destroy a compressor in minutes. Covers the safe "stick test," telling a failed run capacitor (most common) from a seized motor or stuck contactor, what's safe to check yourself, and why a fan that needs a manual push is an [emergency AC repair](https://ac-repair.today/services/emergency-ac-repair/), not a wait-and-see.
 
 ### Thermostat & Controls
+- **[Wi-Fi Thermostat Connectivity Troubleshooting](guides/thermostat-wifi-connectivity.md)** — Why smart thermostats drop Wi-Fi in South Florida homes: signal attenuation through concrete masonry construction, the C-wire vs power-stealing problem that causes intermittent disconnections during cooling cycles, 2.4 GHz channel congestion in dense neighborhoods, the RSSI diagnostic that tells you if the signal is marginal, brand-specific quirks (ecobee, Nest, Honeywell, Sensi), and when the real problem is a failing 24V transformer rather than network interference.
 - **[Communicating Thermostat System Malfunctions](guides/communicating-thermostat-diagnostics.md)** — Modern systems (Carrier Infinity, Trane ComfortLink, Lennox iComfort) use proprietary data-link communication instead of conventional 24V wiring. When the data link breaks, the entire system goes dead — no display, no fan, no compressor. Covers the four distinct failure modes (data-link loss, wrong configuration, software glitch, outdoor-unit communication fault), brand-specific wiring and error codes, and the smart-homeowner troubleshooting steps before you call a pro. Includes a quick-decision table and which brands require dealer-only diagnostic tools.
 
 ## South Florida Specifics
