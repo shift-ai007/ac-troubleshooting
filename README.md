@@ -135,6 +135,12 @@ South Florida conditions affect troubleshooting:
 - **Mold in ducts** — That musty smell from vents is almost always mold growth in ductwork. This requires professional remediation.
 - **Oversized systems are epidemic** — Many South Florida homes have AC systems sized for northern climates. An oversized unit short-cycles, never dehumidifies properly, and fails faster.
 
+## Refrigerant Charge
+
+Getting the refrigerant charge exactly right is critical for cooling performance, efficiency, and compressor longevity. A 10% undercharge can increase energy costs by 20% while slowly damaging the compressor.
+
+- **[Refrigerant Charge Assessment](guides/refrigerant-charge-assessment.md)** — How to recognize the symptoms of improper refrigerant charge: warm air from vents, ice on the evaporator, high electric bills, and running hours without cooling. Covers the causes of leaks in coastal Florida environments, why DIY refrigerant additions are dangerous, and when to call a licensed [AC repair](https://ac-repair.today/services/ac-repair/) technician for proper leak repair and weighed-in charging.
+
 ## Reference
 
 - [Florida HVAC License Lookup](reference/florida-licensing.md) — How to verify your contractor
