@@ -49,6 +49,7 @@ Before diving into symptom guides, two component-level diagnostic resources help
 - **[Water Leaks Inside](guides/water-leaks.md)** — Water pooling around the indoor unit
 - **[Ice on AC Unit](guides/ice-buildup.md)** — Frost or ice forming on pipes or the outdoor unit
 - **[Bad Smell from Vents](guides/bad-smells.md)** — Musty, burning, or chemical odors
+- **[Complete Odor & Vapor Diagnostics](guides/odors-and-vapors-diagnostics.md)** — A comprehensive guide to identifying AC odors by smell: musty (mold), sweet (refrigerant leak), rotten eggs (gas leak vs dead animal), burning plastic (electrical fire risk), sewage (clogged drain), vinegar (bacterial coil growth), fishy (overheating components), and cat urine (R-22 refrigerant decomposition). Includes a diagnostic flowchart and when to call for [emergency AC repair](https://ac-repair.today/services/emergency-ac-repair/). Expands well beyond the quick-reference [Bad Smell guide](guides/bad-smells.md).
 
 ### Humidity & Air Quality
 - **[Humidity & IAQ Effects on AC Performance](guides/humidity-iaq-effects.md)** — How high humidity and poor indoor air quality increase runtime, clog drains, overload coils, and damage components — plus diagnostic checks you can do yourself
