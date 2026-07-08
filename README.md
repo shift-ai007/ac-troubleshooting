@@ -152,6 +152,12 @@ Leaky ducts waste 20–40% of your cooling in South Florida's 140°F attics — 
 
 - **[Duct Leak Location Methods](guides/duct-leak-location-methods.md)** — Four field-tested ways to find duct leaks without thermal imaging or duct blasters: the hand sweep (no tools, 10 min), the tissue test (sensitive enough for pinholes), the smoke/pencil test (for tiny leaks), and a visual inspection checklist that catches the hidden signs of leaks (dust streaks, condensation stains, degrading mastic). Covers sealing methods for each leak type, what NOT to use (standard duct tape fails in an attic), the critical difference between supply and return leaks, and when to call a professional for [duct cleaning and inspection](https://ac-repair.today/services/duct-cleaning/).
 
+## New Construction AC Problems
+
+Brand-new homes in South Florida can have AC problems that look like equipment failure but are actually installation issues. Production builder shortcuts, construction debris in ductwork, and improperly charged systems cause most of the complaints.
+
+- **[New Construction AC Problems](guides/new-construction-ac-problems.md)** — Why a brand-new system fails in a brand-new home: the low-bid HVAC subcontractor problem, missing Manual J load calculations, construction debris in the ductwork, improper refrigerant charge, and systematic oversizing. Covers five diagnostic steps for new homeowners, how to invoke builder warranty protections, and what to document before the 1-year warranty expires. For independent diagnostics, call a [licensed AC repair technician](https://ac-repair.today/services/ac-repair/).
+
 ## Reference
 - [Florida HVAC License Lookup](reference/florida-licensing.md) — How to verify your contractor
 - [SEER Rating Explained](reference/seer-ratings.md) — What those numbers actually mean for your bill
