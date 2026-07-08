@@ -146,8 +146,13 @@ Getting the refrigerant charge exactly right is critical for cooling performance
 - **[Refrigerant Charge Assessment](guides/refrigerant-charge-assessment.md)** — How to recognize the symptoms of improper refrigerant charge: warm air from vents, ice on the evaporator, high electric bills, and running hours without cooling. Covers the causes of leaks in coastal Florida environments, why DIY refrigerant additions are dangerous, and when to call a licensed [AC repair](https://ac-repair.today/services/ac-repair/) technician for proper leak repair and weighed-in charging.
 - **[Refrigerant Line Freeze Diagnostics](guides/refrigerant-line-freeze-diagnostics.md)** — The three distinct freeze patterns (suction-line-only, uniform coil ice, outdoor unit ice), what each one means, and the 15-minute defrost-and-check protocol that separates a filter-change fix from a refrigerant-leak service call. Covers why South Florida's humidity causes coils to freeze at 38–40°F instead of 32°F, and how freeze-damage compounds with each cycle to shorten compressor life.
 
-## Reference
+## Duct Leak Detection
 
+Leaky ducts waste 20–40% of your cooling in South Florida's 140°F attics — and most homeowners do not find them because they do not know what to look for. Every accessible duct joint is a potential leak, and the worst ones (return-side leaks that pull attic air into the system) are invisible to the homeowner who only checks supply vents.
+
+- **[Duct Leak Location Methods](guides/duct-leak-location-methods.md)** — Four field-tested ways to find duct leaks without thermal imaging or duct blasters: the hand sweep (no tools, 10 min), the tissue test (sensitive enough for pinholes), the smoke/pencil test (for tiny leaks), and a visual inspection checklist that catches the hidden signs of leaks (dust streaks, condensation stains, degrading mastic). Covers sealing methods for each leak type, what NOT to use (standard duct tape fails in an attic), the critical difference between supply and return leaks, and when to call a professional for [duct cleaning and inspection](https://ac-repair.today/services/duct-cleaning/).
+
+## Reference
 - [Florida HVAC License Lookup](reference/florida-licensing.md) — How to verify your contractor
 - [SEER Rating Explained](reference/seer-ratings.md) — What those numbers actually mean for your bill
 - [Refrigerant Types](reference/refrigerants.md) — R-22 vs R-410A and the transition timeline
