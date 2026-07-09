@@ -14,11 +14,27 @@ python3 tools/ac-diagnostic.py
 
 This Python script walks you through a decision-tree diagnostic — answering yes/no questions about your AC's symptoms to narrow down the cause and recommend next steps. No dependencies beyond Python 3.6+.
 
+### Refrigerant PT Reference Tool
+
+For quick refrigerant pressure-temperature lookups, use the **[refrigerant PT chart tool](tools/refrigerant-pt-chart.py)**:
+
+```bash
+# Interactive mode — choose refrigerant, see full PT table
+python3 tools/refrigerant-pt-chart.py
+
+# Quick lookups
+python3 tools/refrigerant-pt-chart.py --refrigerant R-410A --temp 95
+python3 tools/refrigerant-pt-chart.py --refrigerant R-410A --pressure 310
+```
+
+This tool covers R-410A, R-22, R-32, and R-454B. It includes a charge analysis feature: enter your outdoor temperature and operating pressures to get a diagnostic assessment. The companion **[Superheat & Subcooling Measurement Guide](guides/superheat-subcooling-measurement.md)** explains how to take these measurements correctly.
+
 ### Getting Started with Component Testing
-Before diving into symptom guides, two component-level diagnostic resources help you narrow down problems faster:
+Before diving into symptom guides, these component-level diagnostic resources help you narrow down problems faster:
 
 - **[Compressor Contactor Testing](guides/contactor-testing.md)** — How to test the electromechanical switch that powers your compressor. Covers visual inspection, coil resistance checks, energized testing, and the specific contactor failure patterns caused by South Florida's salt air and ant infestations.
 - **[TXV (Thermal Expansion Valve) Diagnostics](guides/txv-diagnostics.md)** — How to identify a failing expansion valve using superheat and subcooling measurements. TXV failures mimic low refrigerant, and misdiagnosis costs hundreds in unnecessary refills.
+- **[Superheat & Subcooling Measurement](guides/superheat-subcooling-measurement.md)** — The essential skill for refrigerant circuit diagnosis. How to measure superheat and subcooling, interpret mixed signals (high superheat + high subcooling = restriction), and charge by the correct method for your system's metering device.
 
 ## How to Use This Guide
 
@@ -157,6 +173,12 @@ Leaky ducts waste 20–40% of your cooling in South Florida's 140°F attics — 
 Brand-new homes in South Florida can have AC problems that look like equipment failure but are actually installation issues. Production builder shortcuts, construction debris in ductwork, and improperly charged systems cause most of the complaints.
 
 - **[New Construction AC Problems](guides/new-construction-ac-problems.md)** — Why a brand-new system fails in a brand-new home: the low-bid HVAC subcontractor problem, missing Manual J load calculations, construction debris in the ductwork, improper refrigerant charge, and systematic oversizing. Covers five diagnostic steps for new homeowners, how to invoke builder warranty protections, and what to document before the 1-year warranty expires. For independent diagnostics, call a [licensed AC repair technician](https://ac-repair.today/services/ac-repair/).
+
+### Ductless Mini-Splits
+
+Ductless mini-splits have different failure modes than central AC systems — they use variable-speed inverter compressors, electronic expansion valves in each head unit, proprietary data communication wiring, and condensate pumps instead of gravity drains. South Florida's climate creates unique failure patterns for these systems that standard central AC troubleshooting does not cover.
+
+- **[Ductless Mini-Split Troubleshooting Guide](guides/ductless-mini-split-troubleshooting.md)** — The seven most common mini-split problems in South Florida: indoor unit leaking water (clogged condensate pump is the #1 cause), indoor unit blowing warm air (flare joint refrigerant leaks from thermal cycling), short cycling (oversized units failing to dehumidify), LED error codes by brand (Daikin U4, Mitsubishi 2500, Gree E6, and more), insufficient cooling (Manual J sizing vs rules of thumb), condensate pump failure (biofilm in our humidity), and Wi-Fi/smart feature failures. Covers DIY checks vs when to call a [licensed AC technician](https://ac-repair.today/services/ac-repair/), preventive maintenance schedule for coastal environments, and the critical delta-T measurement protocol for mini-splits. Essential for anyone with a mini-split in a South Florida garage conversion, ADU, sunroom, or condo.
 
 ## Reference
 - [Florida HVAC License Lookup](reference/florida-licensing.md) — How to verify your contractor
